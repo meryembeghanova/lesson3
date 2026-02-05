@@ -17,7 +17,7 @@ The AI prompt that helped me most was asking for help creating a beginner-friend
 decision-making program in Python using if, elif, and else.
 
 # Password validator and Birthday song
-## From these projects I learned that A while loop is used because we do not know how many attempts the user will need.The loop continues UNTIL the password meets all the required conditions.A for loop is better when the number of repetitions is known in advance, which is not the case in PASSWORD VALIDATOR PROJECT here.
+From these projects I learned that A while loop is used because we do not know how many attempts the user will need.The loop continues UNTIL the password meets all the required conditions.A for loop is better when the number of repetitions is known in advance, which is not the case in PASSWORD VALIDATOR PROJECT here.
 
 # Physics test game
  To create this project I first did the code myself to practice my python skills and then asked AI this to compare my code with gemini's :
