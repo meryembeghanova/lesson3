@@ -16,4 +16,9 @@ and else statements to choose different study strategies that best fit the user.
 The AI prompt that helped me most was asking for help creating a beginner-friendly
 decision-making program in Python using if, elif, and else.
 
-#
+# Password validator and Birthday song
+## From these projects I learned that A while loop is used because we do not know how many attempts the user will need.The loop continues UNTIL the password meets all the required conditions.A for loop is better when the number of repetitions is known in advance, which is not the case in PASSWORD VALIDATOR PROJECT here.
+
+# Physics test game
+
+
