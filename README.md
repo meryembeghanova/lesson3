@@ -20,5 +20,12 @@ decision-making program in Python using if, elif, and else.
 ## From these projects I learned that A while loop is used because we do not know how many attempts the user will need.The loop continues UNTIL the password meets all the required conditions.A for loop is better when the number of repetitions is known in advance, which is not the case in PASSWORD VALIDATOR PROJECT here.
 
 # Physics test game
+ To create this project I first did the code myself to practice my python skills and then asked AI this to compare my code with gemini's :
+ ## I am a student building a physics test game in Python. Please write a script that uses at least 3 functions that interact with each other. The game must include loops to ask 10 questions and if/else statements for logic. Make the code clean, use basic physics themes like Force and Velocity, and explain how the functions work together
+ The bug I  had in my code was:
+ ## If the game asks "What is the force?" and the user accidentally types "Ten" (letters) instead of 10 (numbers), Python crashes with a ValueError.
+# The Fix:
+AI used a try/except block inside the loop. It’s like a safety net
+
 
 
